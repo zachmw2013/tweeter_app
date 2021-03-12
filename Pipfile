@@ -9,6 +9,7 @@ python-dateutil = "*"
 gunicorn = "*"
 django-heroku = "*"
 django-bootstrap4 = "*"
+django-bootstrap-datepicker-plus = "*"
 
 [dev-packages]
 
