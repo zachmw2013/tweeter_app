@@ -5,5 +5,5 @@ from . import views
 
 urlpatterns = [
     path('tweets/new/', views.tweet_new, name='tweet_new'),
-    path('', views.tweet_list, name='home'),,
+    path('', views.tweet_list, name='home'),
 ]
